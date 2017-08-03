@@ -3,6 +3,7 @@
 //Version: 1.0
 
 
+
 // Document read
 (function ($) {
     "use strict";
@@ -122,6 +123,7 @@
     });
 
 
+
 //////// -Magnific Popup for portfolio images- /////////
     var filter_item = $('.filtr-item');
     $(filter_item).magnificPopup({
@@ -134,7 +136,7 @@
     $(video).YTPlayer({
         fitToBackground: true,
         /// Change the symbols here with this from your video ///
-        videoId: '9MAzEtphWLE',
+        videoId: '618UdSXUh0g',
         /// End ///
         playerVars: {
             modestbranding: 1,
@@ -152,7 +154,7 @@
     $(video).YTPlayer({
         fitToBackground: true,
         /// Change the symbols here with this from your video ///
-        videoId: '7e90gBu4pas',
+        videoId: '618UdSXUh0g',
         /// End ///
         playerVars: {
             modestbranding: 1,
